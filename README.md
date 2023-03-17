@@ -6,4 +6,4 @@
 <br /><br /><br /><br />
 A minimalistic yet highly functional all-in-one Project Management Solution!
 <br />
-It's gonna be the next thing after git!!!
+It's gonna be the next <b>big</b> thing after git!!!
